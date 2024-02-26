@@ -8,7 +8,8 @@
     "target": "ES2022",
   },
   "include": [
-    "ambient.d.ts"
+    "ambient.d.ts",
+    // "node_modules/*/*.d.ts"
   ],
   "files": [
     "extension.ts",
